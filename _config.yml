@@ -9,6 +9,8 @@ description: >
 version:          1.0
 gitbook_version:  3.2.3
 
+repository:       'xucx0914/xucx0914.github.io'
+github_url:       'https://github.com/xucx0914'
 url:              'https://xucx0914.github.io'
 baseurl:          '/jekyll-gitbook'
 rss:              RSS
